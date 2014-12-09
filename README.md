@@ -26,7 +26,7 @@ As the German word for a university cantine is *Mensa* (latin for table) I chose
 * INTERNET, for scraping the official cantine homepage live
 
 ## License 
-* see [LICENSE](https://github.com/username/appname/blob/master/LICENSE.md) file
+* see [LICENSE](https://github.com/repat/MinimalMensaPlan/blob/master/LICENSE.md) file
 
 ## Version 
 * Version 1.0
