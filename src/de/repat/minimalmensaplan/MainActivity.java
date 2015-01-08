@@ -34,7 +34,7 @@ public class MainActivity extends ListActivity {
 			try {
 				Document doc = Jsoup
 						.connect(
-								"http://speiseplan.studierendenwerk-hamburg.de/de/520/2014/0/")
+								"http://speiseplan.studierendenwerk-hamburg.de/de/530/2015/0/")
 						.get();
 				date = doc.select(".category").text();
 				int maxDishes = doc.getElementsByClass("dish-description")
